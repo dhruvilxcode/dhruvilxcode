@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header-image](https://readme-styles.vercel.app/api/header/dhruvil%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20%F0%9F%8D%8E)
+
 <!--
 **dhruvilxcode/dhruvilxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
