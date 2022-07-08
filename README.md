@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Dhruvil Patel
+
+Full Stack Developer & Designer.
 
 ![header-image](https://readme-styles.vercel.app/api/header/dhruvil%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20%F0%9F%8D%8E)
 
