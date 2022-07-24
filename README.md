@@ -4,6 +4,7 @@ Full Stack Developer & Designer.
 
 <!-- ![header-image](https://readme-styles.vercel.app/api/header/dhruvil%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20%F0%9F%8D%8E?subtitle=Full%20Stack%20Developer%20Designer) -->
 
+<!--
 ## Languages
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,6 +47,8 @@ Full Stack Developer & Designer.
 ![indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+-->
 
 <!--
 **dhruvilxcode/dhruvilxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
